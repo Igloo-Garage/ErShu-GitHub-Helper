@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         二叔的GitHub下载助手 (v1.0初版)
-// @namespace    http://er-shu-tools
+// @namespace    
 // @version      1.0
 // @description  多AI模型切换、路牌、多重贴标、编译器识别、找同类软件。
 // @author       二叔
-// @match        https://github.com/*
+// @match        https://github.com/Igloo-Garage/ErShu-GitHub-Helper/tree/main
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_openInTab
