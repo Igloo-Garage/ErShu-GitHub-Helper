@@ -2,12 +2,18 @@
 📦 二叔GitHub助手 (v1.0初版)
 专为小白用户制作的GitHub文件识别增强工具。
 
-🔍 智能找同类：一键直达 AlternativeTo，寻找当前项目的相似神器。
+### 🚀 快速安装
+1. 首先确保你的浏览器安装了 [Tampermonkey (油猴)](https://www.tampermonkey.net/) 插件。
+2. 点击下方链接即可自动弹出安装界面：
+   
+👉 **[点我一键安装脚本 (GitHub 直连)]https://raw.githubusercontent.com/Igloo-Garage/ErShu-GitHub-Helper/refs/heads/main/ErShu-GitHub-Helper.user.js<img width="1085" height="28" alt="image" src="https://github.com/user-attachments/assets/9022277c-f5cf-4f30-b53a-7bc060ac18a8" />
 
-🏷️ 精准架构识别：自动标记 MSVC、MinGW、ARM64、x64 Mac专用版等。
+> **注意：** 如果上方链接打不开（国内网络波动），请尝试下方的加速链接：
+> [🚀 点我安装 (加速通道)]https://cdn.jsdelivr.net/gh/Igloo-Garage/ErShu-GitHub-Helper@main/ErShu-GitHub-Helper.user.js
 
-📀 复古格式支持：识别 ISO、BIN、GBA、IPA、APK 等各类镜像与安装包，标签限额 2 个，清爽不遮挡。
-
-🤖 AI 总结更新：内置 ChatGPT/Kimi 跳转，智能过滤 Assets 文件列表，只抓取核心更新干货。
-
-💗 粉色引导路牌：在主页醒目提示 Release 下载入口，告别“找不到下载在哪”的尴尬。
+---
+### 🌟 核心功能
+* **🔍 找同类软件**：项目主页一键搜索 AlternativeTo。
+* **🏷️ 智能标签**：精准识别 MSVC、ARM64、ISO 镜像、IPA/APK 等格式。
+* **🤖 AI 总结**：Release 页面一键调取 AI 总结更新日志（支持自动过滤冗余文件列表）。
+* **💗 粉色路牌**：在复杂项目（如 yt-dlp）中精准导航下载入口。
