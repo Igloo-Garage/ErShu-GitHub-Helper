@@ -6,7 +6,7 @@
 1. 首先确保你的浏览器安装了 [Tampermonkey (油猴)](https://www.tampermonkey.net/) 插件。
 2. 点击下方链接即可自动弹出安装界面：
    
-👉 **[点我一键安装脚本 (GitHub 直连)]https://raw.githubusercontent.com/Igloo-Garage/ErShu-GitHub-Helper/refs/heads/main/ErShu-GitHub-Helper.user.js<img width="1085" height="28" alt="image" src="https://github.com/user-attachments/assets/9022277c-f5cf-4f30-b53a-7bc060ac18a8" />
+👉 **[点我一键安装脚本 (GitHub 直连)]https://raw.githubusercontent.com/Igloo-Garage/ErShu-GitHub-Helper/refs/heads/main/ErShu-GitHub-Helper.user.js
 
 > **注意：** 如果上方链接打不开（国内网络波动），请尝试下方的加速链接：
 > [🚀 点我安装 (加速通道)]https://cdn.jsdelivr.net/gh/Igloo-Garage/ErShu-GitHub-Helper@main/ErShu-GitHub-Helper.user.js
