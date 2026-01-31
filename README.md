@@ -1,6 +1,6 @@
 # ErShu-GitHub-Helper
-📦 二叔 GitHub 极客助手 (v1.0初版)
-专为复古硬件、模拟器玩家及开发者打造的 GitHub 增强工具。
+📦 二叔GitHub助手 (v1.0初版)
+专为小白用户制作的GitHub文件识别增强工具。
 
 🔍 智能找同类：一键直达 AlternativeTo，寻找当前项目的相似神器。
 
